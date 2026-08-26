@@ -1,4 +1,7 @@
 body {
-    background-color: rgb(159, 88, 1);
+    background-color: rgb(139, 160, 211);
     text-align: left;
 }
+h1 { color: rgb(224, 208, 212); }
+h2 { color: rgb(173, 21, 228); }
+h3 { color: rgb(31, 40, 205); }
