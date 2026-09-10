@@ -5,3 +5,23 @@ body {
 h1 { color: rgb(224, 208, 212); }
 h2 { color: rgb(173, 21, 228); }
 h3 { color: rgb(31, 40, 205); }
+
+  nav {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            background-color: #333;
+            padding: 10px 0;
+            text-align: center;
+        }
+        nav a {
+            color: white;
+            text-decoration: none;
+            margin: 0 15px;
+            font-family: Arial, sans-serif;
+            font-weight: bold;
+        }
+        nav a:hover {
+            text-color: #00bcd4;
+        }
